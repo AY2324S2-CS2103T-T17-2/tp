@@ -9,7 +9,8 @@
         "project-team": "Project team",
         "jay-hong": "Jay Hong",
         "priyansh-bimbisariye": "Priyansh Bimbisariye",
-        "shayaan-sultan": "Shayaan Sultan"
+        "shayaan-sultan": "Shayaan Sultan",
+        "que-linxiao": "Que Linxiao"
       },
       "headingKeywords": {}
     },
@@ -152,6 +153,14 @@
     {
       "src": "team/priyanshbimbisariye.md",
       "title": "Priyansh Bimbisariye's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/quelinxiao.md",
+      "title": "Que Linxiao's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
