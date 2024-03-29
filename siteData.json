@@ -50,6 +50,7 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
+        "unique-identifier-uid-implementation": "Unique Identifier (UID) Implementation",
         "filter-command-implementation": "Filter Command Implementation",
         "show-all-command-implementation": "Show All Command Implementation",
         "delete-by-name-command-implementation": "Delete by Name Command Implementation",
