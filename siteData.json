@@ -119,7 +119,7 @@
         "add-task-to-an-employee-s-task-list-addtask": "Add task to an employee's task list: addtask",
         "mark-a-task-as-completed-mark": "Mark a task as completed: mark",
         "unmark-a-task-as-completed-unmark": "Unmark a task as completed: unmark",
-        "delete-a-task-from-an-employee-s-task-list-deletetask": "Delete a Task from an employee's task list: deletetask",
+        "delete-a-task-from-an-employee-s-task-list-deletetask": "Delete a task from an employee's task list: deleteTask",
         "filter-employees-by-name-tags-roles-or-teams-filter": "Filter employees by name, tags, roles, or teams: filter",
         "listing-all-employees-list": "Listing all employees : list",
         "editing-a-employee-edit": "Editing a employee : edit",
