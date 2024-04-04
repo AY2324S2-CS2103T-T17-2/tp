@@ -52,7 +52,6 @@
         "implementation": "Implementation",
         "unique-identifier-uid-implementation": "Unique Identifier (UID) Implementation",
         "filter-command-implementation": "Filter Command Implementation",
-        "show-all-command-implementation": "Show All Command Implementation",
         "delete-by-name-command-implementation": "Delete by Name Command Implementation",
         "delete-by-uid-command-implementation": "Delete by UID Command Implementation",
         "add-command-implementation": "Add Command Implementation",
