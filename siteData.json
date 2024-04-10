@@ -138,7 +138,8 @@
         "command-summary": "Command summary",
         "glossary": "Glossary",
         "cli-command-line-interface": "CLI (Command Line Interface)",
-        "gui-graphical-user-interface": "GUI (Graphical User Interface)"
+        "gui-graphical-user-interface": "GUI (Graphical User Interface)",
+        "unique-identifier-uid": "Unique Identifier (UID)"
       },
       "headingKeywords": {}
     },
