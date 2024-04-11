@@ -139,7 +139,8 @@
         "glossary": "Glossary",
         "cli-command-line-interface": "CLI (Command Line Interface)",
         "gui-graphical-user-interface": "GUI (Graphical User Interface)",
-        "unique-identifier-uid": "Unique Identifier (UID)"
+        "unique-identifier-uid": "Unique Identifier (UID)",
+        "alphanumeric-characters": "Alphanumeric characters"
       },
       "headingKeywords": {}
     },
