@@ -158,11 +158,11 @@
         "feedback-etiquette": "Feedback Etiquette",
         "what-happens-to-your-feedback": "What Happens to Your Feedback",
         "glossary": "Glossary",
+        "alphanumeric-characters": "Alphanumeric characters",
         "cli-command-line-interface": "CLI (Command Line Interface)",
         "gui-graphical-user-interface": "GUI (Graphical User Interface)",
         "ui-user-interface": "UI (User Interface)",
-        "unique-identifier-uid": "Unique Identifier (UID)",
-        "alphanumeric-characters": "Alphanumeric characters"
+        "unique-identifier-uid": "Unique Identifier (UID)"
       },
       "headingKeywords": {}
     },
